@@ -5,7 +5,7 @@ from discord import Embed, Intents
 import asyncio, os, discord
 from discord.ext.commands.context import Context
 from discord.ext.commands import Cog, command
-token = "OTc4NzQwNDMzMTAwMzQ1MzQ0.GlKDBK.gddSHvnw9qd657R2zMqUvrRYCRAIGtRk8IsEAA"
+token = ""
 
 class Bot(BotBase):
     """
